@@ -1,21 +1,4 @@
-,Nº,NJ,Denominación,"%
-Producción
-Total","Cantidad
-de
-Juicios ","%
-(Créditos/
-Activos)","%
-[(Dispon.+ Invers.) /
-Deudas c/Aseg.]","%
-[(Dispon.+ Invers. + Inmuebles) /
-Deudas c/Aseg.]","%
-[(Dispon.+ Invers.+ Inmueb.) /
-(Deudas c/Aseg.+ Comp.Técn.)]","% 
-(Inversiones + Inmuebles) /
-Activos","%
-Superávit /
-Capital Requerido","[(Dispon.+ Invers.) /
-Compromisos Exigibles]",Fecha,Categoría,% Mercado
+,Nº,NJ,Denominación,ProducciónTotal,CantidaddeJuicios,(Créditos/Activos),(Dispon.+Invers.)/Deudasc/Aseg.,(Dispon.+Invers.+Inmuebles)/Deudasc/Aseg.,(Dispon.+Invers.+Inmueb.)/(Deudasc/Aseg.+Comp.Técn.),(Inversiones+Inmuebles)/Activos,Superávit/CapitalRequerido,(Dispon.+Invers.)/CompromisosExigibles,Fecha,Categoría,% Mercado
 0,1.0,A,ANTICIPAR,0.009359181961151071,0.0,15.432962308626468,391.0517578413972,789.9742922829141,789.9742922829141,78.06391533632305,22.728055555555557,0.0,2018-06,Seguros de Vida,0.26
 1,2.0,A,ASV,0.0701651893778443,31.0,42.46642582613394,279.1310056502479,279.1310056502479,264.88146159336634,36.6275715762836,0.6466681320686545,3.8584150120128315,2018-06,Seguros de Vida,1.91
 2,3.0,A,BHN VIDA,0.45079466006656776,22.0,11.295496991030285,0.0,0.0,761.2904197873695,88.20695815383363,323.3574701161066,8.930709543947222,2018-06,Seguros de Vida,12.3
