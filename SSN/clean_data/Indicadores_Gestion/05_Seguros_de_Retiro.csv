@@ -1,4 +1,4 @@
-,Nº,NJ,Denominación,ProducciónTotal,CantidaddeJuicios,(Créditos/Activos),(Dispon.+Invers.)/Deudasc/Aseg.,(Dispon.+Invers.+Inmuebles)/Deudasc/Aseg.,(Dispon.+Invers.+Inmueb.)/(Deudasc/Aseg.+Comp.Técn.),(Inversiones+Inmuebles)/Activos,Superávit/CapitalRequerido,(Dispon.+Invers.)/CompromisosExigibles,Fecha,Categoría,Mercado
+,Nº,NJ,Denominación,ProducciónTotal,CantidaddeJuicios,(Créditos/Activos),(Dispon+Invers)/Deudasc/Aseg,(Dispon+Invers+Inmuebles)/Deudasc/Aseg,(Dispon+Invers+Inmueb)/(Deudasc/Aseg+CompTécn),(Inversiones+Inmuebles)/Activos,Superávit/CapitalRequerido,(Dispon+Invers)/CompromisosExigibles,Fecha,Categoría,Mercado
 0,1.0,A,BINARIA RETIRO,0.025378279325842173,50.0,1.8181185654158036,0.0,0.0,114.8976707803813,97.94505494953317,165.58398394083363,541.479702100657,2018-06,Seguros de Retiro,1.42
 1,2.0,A,CREDICOOP RETIRO,0.011052614088012294,30.0,2.9047526569250177,0.0,0.0,122.87949479677664,96.06638711916091,384.7595672670749,86.43497908663242,2018-06,Seguros de Retiro,0.62
 2,3.0,A,ESTRELLA RETIRO,1.2096857050432865,58.0,0.9146463194558446,0.0,0.0,106.92902242874973,98.73387131134271,24.64193288158256,271.8948691836005,2018-06,Seguros de Retiro,67.85
