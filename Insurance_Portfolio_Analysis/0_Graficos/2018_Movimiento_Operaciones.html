@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+
+<script src="https://cdn.jsdelivr.net/npm//vega@3.3.1"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-lite@2.6.0"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-embed@3.14"></script>
+
+</head>
+<body>
+  <div id="vis"></div>
+  <script type="text/javascript">
+    var spec = {"config": {"view": {"width": 400, "height": 300}, "axis": {"labelFontSize": 12, "titleFontSize": 12}, "legend": {"labelFontSize": 12, "titleFontSize": 12}}, "layer": [{"mark": {"type": "line", "interpolate": "basis", "strokeWidth": 3}, "encoding": {"color": {"type": "nominal", "field": "variable", "legend": {"title": "Tipo de Operaciones"}}, "x": {"type": "nominal", "axis": {"labelAngle": 45, "title": "Fecha"}, "field": "Fecha"}, "y": {"type": "quantitative", "axis": {"title": "Cantidad de Operaciones"}, "field": "value"}}}, {"mark": "point", "encoding": {"opacity": {"value": 0}, "x": {"type": "nominal", "field": "Fecha"}}, "selection": {"selector005": {"type": "single", "nearest": true, "on": "mouseover", "fields": ["Fecha"], "empty": "none"}}}, {"mark": "point", "encoding": {"color": {"type": "nominal", "field": "variable", "legend": {"title": "Tipo de Operaciones"}}, "opacity": {"condition": {"value": 1, "selection": "selector005"}, "value": 0}, "x": {"type": "nominal", "axis": {"labelAngle": 45, "title": "Fecha"}, "field": "Fecha"}, "y": {"type": "quantitative", "axis": {"title": "Cantidad de Operaciones"}, "field": "value"}}}, {"mark": {"type": "rule", "color": "gray"}, "encoding": {"x": {"type": "nominal", "field": "Fecha"}}, "transform": [{"filter": {"selection": "selector005"}}]}, {"mark": {"type": "text", "align": "left", "dx": 5, "dy": -5, "fontSize": 12}, "encoding": {"color": {"type": "nominal", "field": "variable", "legend": {"title": "Tipo de Operaciones"}}, "text": {"condition": {"type": "quantitative", "field": "value", "selection": "selector005"}, "value": " "}, "x": {"type": "nominal", "axis": {"labelAngle": 45, "title": "Fecha"}, "field": "Fecha"}, "y": {"type": "quantitative", "axis": {"title": "Cantidad de Operaciones"}, "field": "value"}}}], "data": {"name": "data-93b716411ada3edecd13b0e3eaa8b679"}, "height": 300, "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v2.6.0.json", "datasets": {"data-93b716411ada3edecd13b0e3eaa8b679": [{"Fecha": "01-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 260}, {"Fecha": "02-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 180}, {"Fecha": "03-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 210}, {"Fecha": "04-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 211}, {"Fecha": "05-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 291}, {"Fecha": "06-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 206}, {"Fecha": "07-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 243}, {"Fecha": "08-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 314}, {"Fecha": "09-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 354}, {"Fecha": "10-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 486}, {"Fecha": "11-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 365}, {"Fecha": "12-2018", "A\u00f1o": 2018, "variable": "Emisiones", "value": 113}, {"Fecha": "01-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 290}, {"Fecha": "02-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 185}, {"Fecha": "03-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 147}, {"Fecha": "04-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 312}, {"Fecha": "05-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 227}, {"Fecha": "06-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 251}, {"Fecha": "07-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 331}, {"Fecha": "08-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 300}, {"Fecha": "09-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 283}, {"Fecha": "10-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 259}, {"Fecha": "11-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 254}, {"Fecha": "12-2018", "A\u00f1o": 2018, "variable": "Renovaciones", "value": 70}, {"Fecha": "01-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 829}, {"Fecha": "02-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 532}, {"Fecha": "03-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 509}, {"Fecha": "04-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 786}, {"Fecha": "05-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 426}, {"Fecha": "06-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 400}, {"Fecha": "07-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 426}, {"Fecha": "08-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 396}, {"Fecha": "09-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 360}, {"Fecha": "10-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 297}, {"Fecha": "11-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 401}, {"Fecha": "12-2018", "A\u00f1o": 2018, "variable": "Refa - Reno", "value": 80}, {"Fecha": "01-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 156}, {"Fecha": "02-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 58}, {"Fecha": "03-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 172}, {"Fecha": "04-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 132}, {"Fecha": "05-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 196}, {"Fecha": "06-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 72}, {"Fecha": "07-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 63}, {"Fecha": "08-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 105}, {"Fecha": "09-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 52}, {"Fecha": "10-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 73}, {"Fecha": "11-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 74}, {"Fecha": "12-2018", "A\u00f1o": 2018, "variable": "Anulaciones", "value": 36}, {"Fecha": "01-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 73}, {"Fecha": "02-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 51}, {"Fecha": "03-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 112}, {"Fecha": "04-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 97}, {"Fecha": "05-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 73}, {"Fecha": "06-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 60}, {"Fecha": "07-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 64}, {"Fecha": "08-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 99}, {"Fecha": "09-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 116}, {"Fecha": "10-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 65}, {"Fecha": "11-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 62}, {"Fecha": "12-2018", "A\u00f1o": 2018, "variable": "Otros Endosos", "value": 13}]}};
+    var embed_opt = {"mode": "vega-lite"};
+
+    function showError(el, error){
+        el.innerHTML = ('<div class="error">'
+                        + '<p>JavaScript Error: ' + error.message + '</p>'
+                        + "<p>This usually means there's a typo in your chart specification. "
+                        + "See the javascript console for the full traceback.</p>"
+                        + '</div>');
+        throw error;
+    }
+    const el = document.getElementById('vis');
+    vegaEmbed("#vis", spec, embed_opt)
+      .catch(error => showError(el, error));
+  </script>
+</body>
+</html>

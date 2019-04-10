@@ -1,0 +1,973 @@
+Fecha,Emisiones,Renovaciones,Refa_Reno,Anulaciones,Otros_Endosos,Ramo,Año
+2016-01,30,33,33,17,0,Vida individual,2016
+2016-02,26,32,32,14,0,Vida individual,2016
+2016-03,31,47,47,30,1,Vida individual,2016
+2016-04,23,35,35,24,1,Vida individual,2016
+2016-05,29,38,38,20,1,Vida individual,2016
+2016-06,23,63,63,17,0,Vida individual,2016
+2016-07,17,142,142,28,1,Vida individual,2016
+2016-08,48,107,107,14,0,Vida individual,2016
+2016-09,26,91,91,11,0,Vida individual,2016
+2016-10,27,48,48,19,4,Vida individual,2016
+2016-11,21,22,22,15,0,Vida individual,2016
+2016-12,19,26,27,22,1,Vida individual,2016
+2016-01,82,78,301,44,72,Automotores,2016
+2016-02,68,100,400,60,80,Automotores,2016
+2016-03,67,125,367,71,66,Automotores,2016
+2016-04,81,96,356,114,68,Automotores,2016
+2016-05,59,112,339,58,67,Automotores,2016
+2016-06,48,115,350,66,64,Automotores,2016
+2016-07,56,225,385,62,56,Automotores,2016
+2016-08,63,203,387,33,35,Automotores,2016
+2016-09,78,180,393,49,65,Automotores,2016
+2016-10,74,147,415,62,29,Automotores,2016
+2016-11,68,97,369,66,20,Automotores,2016
+2016-12,107,88,321,56,43,Automotores,2016
+2016-01,2,16,16,2,11,Comb.Familiar,2016
+2016-02,3,18,18,2,3,Comb.Familiar,2016
+2016-03,2,12,12,3,4,Comb.Familiar,2016
+2016-04,7,15,15,1,5,Comb.Familiar,2016
+2016-05,21,8,8,2,5,Comb.Familiar,2016
+2016-06,14,12,12,5,4,Comb.Familiar,2016
+2016-07,7,9,9,2,2,Comb.Familiar,2016
+2016-08,3,9,9,4,6,Comb.Familiar,2016
+2016-09,5,26,26,2,9,Comb.Familiar,2016
+2016-10,8,9,9,4,2,Comb.Familiar,2016
+2016-11,2,18,18,1,2,Comb.Familiar,2016
+2016-12,1,16,16,2,9,Comb.Familiar,2016
+2016-01,18,12,12,8,7,Acc.Personales,2016
+2016-02,17,13,17,6,5,Acc.Personales,2016
+2016-03,12,11,11,6,9,Acc.Personales,2016
+2016-04,17,10,11,11,6,Acc.Personales,2016
+2016-05,20,19,20,5,4,Acc.Personales,2016
+2016-06,22,23,23,6,4,Acc.Personales,2016
+2016-07,22,27,27,11,10,Acc.Personales,2016
+2016-08,19,21,21,7,16,Acc.Personales,2016
+2016-09,22,30,30,7,10,Acc.Personales,2016
+2016-10,21,10,13,5,13,Acc.Personales,2016
+2016-11,11,24,25,6,16,Acc.Personales,2016
+2016-12,14,18,18,14,10,Acc.Personales,2016
+2016-01,0,2,2,0,2,Incendio,2016
+2016-02,0,0,0,0,0,Incendio,2016
+2016-03,0,0,0,0,0,Incendio,2016
+2016-04,1,3,3,3,0,Incendio,2016
+2016-05,0,2,2,1,0,Incendio,2016
+2016-06,0,1,1,1,0,Incendio,2016
+2016-07,1,1,1,1,0,Incendio,2016
+2016-08,0,0,0,0,0,Incendio,2016
+2016-09,1,0,0,0,0,Incendio,2016
+2016-10,2,1,1,0,0,Incendio,2016
+2016-11,0,0,0,0,0,Incendio,2016
+2016-12,0,0,0,0,0,Incendio,2016
+2016-01,2,2,3,1,0,Caucion,2016
+2016-02,1,0,0,0,0,Caucion,2016
+2016-03,1,0,1,0,2,Caucion,2016
+2016-04,0,1,1,0,0,Caucion,2016
+2016-05,0,4,6,0,0,Caucion,2016
+2016-06,0,4,5,0,0,Caucion,2016
+2016-07,1,1,1,2,0,Caucion,2016
+2016-08,0,2,3,0,0,Caucion,2016
+2016-09,1,2,3,0,0,Caucion,2016
+2016-10,2,1,1,0,0,Caucion,2016
+2016-11,0,2,3,1,0,Caucion,2016
+2016-12,0,4,4,0,0,Caucion,2016
+2016-01,34,0,0,1,0,Acc. Fliares Transportados,2016
+2016-02,22,0,0,3,0,Acc. Fliares Transportados,2016
+2016-03,29,1,1,2,0,Acc. Fliares Transportados,2016
+2016-04,36,0,0,11,0,Acc. Fliares Transportados,2016
+2016-05,30,3,3,3,0,Acc. Fliares Transportados,2016
+2016-06,34,0,0,4,0,Acc. Fliares Transportados,2016
+2016-07,77,8,8,10,0,Acc. Fliares Transportados,2016
+2016-08,143,6,6,10,0,Acc. Fliares Transportados,2016
+2016-09,104,4,4,11,0,Acc. Fliares Transportados,2016
+2016-10,49,57,57,16,0,Acc. Fliares Transportados,2016
+2016-11,37,19,19,31,0,Acc. Fliares Transportados,2016
+2016-12,33,13,13,17,0,Acc. Fliares Transportados,2016
+2016-01,0,13,13,3,0,Vida Oblig.,2016
+2016-02,2,10,10,0,0,Vida Oblig.,2016
+2016-03,1,47,47,1,0,Vida Oblig.,2016
+2016-04,2,35,35,0,37,Vida Oblig.,2016
+2016-05,4,16,16,5,2,Vida Oblig.,2016
+2016-06,12,14,14,3,1,Vida Oblig.,2016
+2016-07,12,9,9,13,0,Vida Oblig.,2016
+2016-08,6,54,54,0,0,Vida Oblig.,2016
+2016-09,5,25,25,1,0,Vida Oblig.,2016
+2016-10,2,14,14,0,1,Vida Oblig.,2016
+2016-11,3,26,26,3,0,Vida Oblig.,2016
+2016-12,2,41,41,0,0,Vida Oblig.,2016
+2016-01,1,0,0,0,0,A.R.T.,2016
+2016-02,0,0,0,1,0,A.R.T.,2016
+2016-03,2,0,0,0,1,A.R.T.,2016
+2016-04,11,0,0,1,12,A.R.T.,2016
+2016-05,6,4,4,1,25,A.R.T.,2016
+2016-06,17,6,6,6,41,A.R.T.,2016
+2016-07,12,9,9,1,81,A.R.T.,2016
+2016-08,14,10,10,1,89,A.R.T.,2016
+2016-09,5,5,5,21,43,A.R.T.,2016
+2016-10,2,2,2,1,15,A.R.T.,2016
+2016-11,7,4,4,0,30,A.R.T.,2016
+2016-12,1,1,1,0,9,A.R.T.,2016
+2016-01,2,5,5,0,2,Resp.Civil,2016
+2016-02,3,3,3,1,0,Resp.Civil,2016
+2016-03,0,3,3,0,3,Resp.Civil,2016
+2016-04,4,5,5,2,1,Resp.Civil,2016
+2016-05,3,4,4,3,0,Resp.Civil,2016
+2016-06,1,1,1,1,3,Resp.Civil,2016
+2016-07,3,3,3,1,1,Resp.Civil,2016
+2016-08,3,7,7,3,0,Resp.Civil,2016
+2016-09,0,0,0,1,1,Resp.Civil,2016
+2016-10,3,6,6,0,0,Resp.Civil,2016
+2016-11,0,4,4,2,2,Resp.Civil,2016
+2016-12,1,2,2,2,1,Resp.Civil,2016
+2016-01,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-02,0,1,1,0,0,Todo Riesgo Operativo,2016
+2016-03,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-04,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-05,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-06,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-07,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-08,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-09,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-10,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-11,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-12,0,0,0,0,0,Todo Riesgo Operativo,2016
+2016-01,1,4,4,1,6,Int.de Comer.,2016
+2016-02,1,9,9,0,3,Int.de Comer.,2016
+2016-03,5,6,6,0,2,Int.de Comer.,2016
+2016-04,0,6,6,1,5,Int.de Comer.,2016
+2016-05,2,1,1,3,4,Int.de Comer.,2016
+2016-06,1,9,9,2,3,Int.de Comer.,2016
+2016-07,3,7,7,3,3,Int.de Comer.,2016
+2016-08,2,7,7,1,4,Int.de Comer.,2016
+2016-09,1,10,10,0,3,Int.de Comer.,2016
+2016-10,1,7,7,1,2,Int.de Comer.,2016
+2016-11,1,4,4,0,4,Int.de Comer.,2016
+2016-12,2,8,8,4,1,Int.de Comer.,2016
+2016-01,3,0,1,0,0,Moto - Vehículo,2016
+2016-02,1,0,0,2,0,Moto - Vehículo,2016
+2016-03,1,1,4,3,0,Moto - Vehículo,2016
+2016-04,0,0,2,1,1,Moto - Vehículo,2016
+2016-05,0,0,2,1,0,Moto - Vehículo,2016
+2016-06,0,0,0,1,0,Moto - Vehículo,2016
+2016-07,0,1,3,1,0,Moto - Vehículo,2016
+2016-08,0,0,2,1,0,Moto - Vehículo,2016
+2016-09,1,1,2,0,0,Moto - Vehículo,2016
+2016-10,3,1,1,0,0,Moto - Vehículo,2016
+2016-11,1,1,3,0,1,Moto - Vehículo,2016
+2016-12,0,1,1,0,0,Moto - Vehículo,2016
+2016-01,0,0,0,0,0,Sepelio,2016
+2016-02,1,0,0,0,0,Sepelio,2016
+2016-03,0,0,0,0,0,Sepelio,2016
+2016-04,0,0,0,0,0,Sepelio,2016
+2016-05,1,0,0,0,0,Sepelio,2016
+2016-06,0,0,0,0,0,Sepelio,2016
+2016-07,1,0,0,0,0,Sepelio,2016
+2016-08,0,0,0,0,0,Sepelio,2016
+2016-09,0,0,0,0,0,Sepelio,2016
+2016-10,0,0,0,0,0,Sepelio,2016
+2016-11,0,0,0,0,0,Sepelio,2016
+2016-12,0,0,0,0,0,Sepelio,2016
+2016-01,1,2,3,0,1,Vida Colectivo,2016
+2016-02,0,2,5,0,3,Vida Colectivo,2016
+2016-03,1,1,3,5,10,Vida Colectivo,2016
+2016-04,1,1,4,1,25,Vida Colectivo,2016
+2016-05,0,3,5,1,4,Vida Colectivo,2016
+2016-06,0,0,6,0,7,Vida Colectivo,2016
+2016-07,0,1,8,0,4,Vida Colectivo,2016
+2016-08,1,3,5,1,4,Vida Colectivo,2016
+2016-09,2,1,3,1,6,Vida Colectivo,2016
+2016-10,0,2,3,0,5,Vida Colectivo,2016
+2016-11,0,4,6,0,16,Vida Colectivo,2016
+2016-12,0,1,3,0,15,Vida Colectivo,2016
+2016-01,1,0,0,0,1,Seguro Tecnico,2016
+2016-02,1,3,3,0,1,Seguro Tecnico,2016
+2016-03,0,0,0,0,1,Seguro Tecnico,2016
+2016-04,1,0,0,0,1,Seguro Tecnico,2016
+2016-05,2,1,1,0,1,Seguro Tecnico,2016
+2016-06,2,2,2,2,0,Seguro Tecnico,2016
+2016-07,0,1,1,0,0,Seguro Tecnico,2016
+2016-08,1,3,3,0,0,Seguro Tecnico,2016
+2016-09,1,0,0,1,0,Seguro Tecnico,2016
+2016-10,0,0,0,0,0,Seguro Tecnico,2016
+2016-11,0,2,2,1,0,Seguro Tecnico,2016
+2016-12,0,0,0,0,2,Seguro Tecnico,2016
+2016-01,2,1,1,0,0,Incendio / Int. de Consorcio,2016
+2016-02,1,4,4,2,3,Incendio / Int. de Consorcio,2016
+2016-03,0,1,1,0,3,Incendio / Int. de Consorcio,2016
+2016-04,3,0,0,0,0,Incendio / Int. de Consorcio,2016
+2016-05,1,1,1,0,0,Incendio / Int. de Consorcio,2016
+2016-06,2,1,1,0,1,Incendio / Int. de Consorcio,2016
+2016-07,0,2,2,1,2,Incendio / Int. de Consorcio,2016
+2016-08,3,5,5,0,0,Incendio / Int. de Consorcio,2016
+2016-09,1,3,3,1,0,Incendio / Int. de Consorcio,2016
+2016-10,0,4,4,0,0,Incendio / Int. de Consorcio,2016
+2016-11,0,1,1,0,0,Incendio / Int. de Consorcio,2016
+2016-12,0,1,1,2,1,Incendio / Int. de Consorcio,2016
+2016-01,0,0,0,0,0,Transporte,2016
+2016-02,0,0,0,0,0,Transporte,2016
+2016-03,0,0,0,0,0,Transporte,2016
+2016-04,0,0,0,0,0,Transporte,2016
+2016-05,0,0,0,0,0,Transporte,2016
+2016-06,0,0,0,0,0,Transporte,2016
+2016-07,1,0,0,0,0,Transporte,2016
+2016-08,0,0,0,0,1,Transporte,2016
+2016-09,0,0,0,0,0,Transporte,2016
+2016-10,0,0,0,0,0,Transporte,2016
+2016-11,0,0,0,0,0,Transporte,2016
+2016-12,1,0,0,0,0,Transporte,2016
+2016-01,0,0,1,0,1,Vida Cont.Trab.,2016
+2016-02,0,1,1,0,0,Vida Cont.Trab.,2016
+2016-03,1,0,0,0,3,Vida Cont.Trab.,2016
+2016-04,0,0,0,0,3,Vida Cont.Trab.,2016
+2016-05,0,0,0,0,1,Vida Cont.Trab.,2016
+2016-06,0,0,0,0,2,Vida Cont.Trab.,2016
+2016-07,0,0,0,0,1,Vida Cont.Trab.,2016
+2016-08,1,0,0,0,0,Vida Cont.Trab.,2016
+2016-09,0,0,0,1,2,Vida Cont.Trab.,2016
+2016-10,0,1,2,0,2,Vida Cont.Trab.,2016
+2016-11,0,1,1,0,3,Vida Cont.Trab.,2016
+2016-12,0,0,0,1,2,Vida Cont.Trab.,2016
+2016-01,0,0,0,0,0,Robo,2016
+2016-02,0,0,0,0,0,Robo,2016
+2016-03,3,0,0,1,0,Robo,2016
+2016-04,3,0,0,0,4,Robo,2016
+2016-05,5,0,0,0,1,Robo,2016
+2016-06,2,0,0,0,3,Robo,2016
+2016-07,3,0,0,0,1,Robo,2016
+2016-08,2,0,0,0,0,Robo,2016
+2016-09,2,0,0,1,2,Robo,2016
+2016-10,2,0,0,3,0,Robo,2016
+2016-11,4,0,0,0,1,Robo,2016
+2016-12,3,0,0,1,0,Robo,2016
+2016-01,0,0,0,0,0,Salud,2016
+2016-02,0,0,0,0,0,Salud,2016
+2016-03,2,0,0,0,0,Salud,2016
+2016-04,1,0,0,0,0,Salud,2016
+2016-05,0,0,0,0,0,Salud,2016
+2016-06,0,0,0,0,0,Salud,2016
+2016-07,1,0,0,0,0,Salud,2016
+2016-08,1,0,0,0,0,Salud,2016
+2016-09,1,0,0,0,0,Salud,2016
+2016-10,0,0,0,2,0,Salud,2016
+2016-11,1,0,0,0,0,Salud,2016
+2016-12,0,0,0,0,0,Salud,2016
+2016-01,1,0,0,0,0,Acc.Pers.Auton.,2016
+2016-02,1,0,0,0,0,Acc.Pers.Auton.,2016
+2016-03,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-04,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-05,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-06,0,0,0,1,0,Acc.Pers.Auton.,2016
+2016-07,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-08,1,0,0,0,0,Acc.Pers.Auton.,2016
+2016-09,1,1,1,0,0,Acc.Pers.Auton.,2016
+2016-10,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-11,0,1,1,0,0,Acc.Pers.Auton.,2016
+2016-12,0,0,0,0,0,Acc.Pers.Auton.,2016
+2016-01,1,0,0,0,0,Cascos,2016
+2016-02,1,0,0,0,1,Cascos,2016
+2016-03,0,0,0,0,0,Cascos,2016
+2016-04,0,0,0,0,0,Cascos,2016
+2016-05,0,0,0,0,0,Cascos,2016
+2016-06,0,0,0,0,0,Cascos,2016
+2016-07,0,1,1,0,0,Cascos,2016
+2016-08,2,1,1,0,0,Cascos,2016
+2016-09,0,0,0,0,0,Cascos,2016
+2016-10,0,0,0,0,0,Cascos,2016
+2016-11,0,0,0,0,0,Cascos,2016
+2016-12,0,0,0,0,0,Cascos,2016
+2016-01,0,0,0,0,1,Int.Consorcio,2016
+2016-02,0,0,0,0,0,Int.Consorcio,2016
+2016-03,0,0,0,0,0,Int.Consorcio,2016
+2016-04,0,0,0,0,0,Int.Consorcio,2016
+2016-05,0,0,0,0,0,Int.Consorcio,2016
+2016-06,0,0,0,0,0,Int.Consorcio,2016
+2016-07,0,0,0,0,0,Int.Consorcio,2016
+2016-08,0,0,0,0,0,Int.Consorcio,2016
+2016-09,0,0,0,0,0,Int.Consorcio,2016
+2016-10,0,0,0,0,0,Int.Consorcio,2016
+2016-11,0,0,0,0,0,Int.Consorcio,2016
+2016-12,0,0,0,0,0,Int.Consorcio,2016
+2016-01,0,0,0,0,0,Riesgos Varios,2016
+2016-02,0,0,0,0,0,Riesgos Varios,2016
+2016-03,0,0,0,0,0,Riesgos Varios,2016
+2016-04,1,0,0,0,0,Riesgos Varios,2016
+2016-05,1,1,1,0,0,Riesgos Varios,2016
+2016-06,1,0,0,0,0,Riesgos Varios,2016
+2016-07,0,0,0,0,0,Riesgos Varios,2016
+2016-08,0,0,0,0,0,Riesgos Varios,2016
+2016-09,0,0,0,0,0,Riesgos Varios,2016
+2016-10,1,0,0,0,0,Riesgos Varios,2016
+2016-11,3,0,0,0,0,Riesgos Varios,2016
+2016-12,0,0,0,0,0,Riesgos Varios,2016
+2016-01,0,0,0,0,0,Cristales,2016
+2016-02,0,0,0,0,0,Cristales,2016
+2016-03,0,0,0,0,0,Cristales,2016
+2016-04,0,0,0,0,0,Cristales,2016
+2016-05,1,0,0,0,0,Cristales,2016
+2016-06,0,0,0,0,0,Cristales,2016
+2016-07,0,0,0,1,0,Cristales,2016
+2016-08,0,0,0,0,0,Cristales,2016
+2016-09,0,0,0,0,0,Cristales,2016
+2016-10,0,0,0,0,0,Cristales,2016
+2016-11,0,0,0,0,0,Cristales,2016
+2016-12,0,0,0,0,0,Cristales,2016
+2016-01,0,0,0,0,0,Perdida de Beneficio,2016
+2016-02,0,0,0,0,0,Perdida de Beneficio,2016
+2016-03,0,0,0,0,0,Perdida de Beneficio,2016
+2016-04,0,0,0,0,0,Perdida de Beneficio,2016
+2016-05,0,0,0,0,0,Perdida de Beneficio,2016
+2016-06,0,0,0,0,0,Perdida de Beneficio,2016
+2016-07,0,0,0,0,0,Perdida de Beneficio,2016
+2016-08,0,0,0,0,0,Perdida de Beneficio,2016
+2016-09,0,0,0,0,0,Perdida de Beneficio,2016
+2016-10,0,0,0,0,0,Perdida de Beneficio,2016
+2016-11,0,0,0,0,0,Perdida de Beneficio,2016
+2016-12,0,0,0,0,0,Perdida de Beneficio,2016
+2017-01,7,25,25,26,0,Vida individual,2017
+2017-02,7,10,11,12,1,Vida individual,2017
+2017-03,6,28,28,14,0,Vida individual,2017
+2017-04,10,23,23,10,0,Vida individual,2017
+2017-05,20,33,33,17,0,Vida individual,2017
+2017-06,10,66,66,17,1,Vida individual,2017
+2017-07,15,59,59,14,0,Vida individual,2017
+2017-08,80,48,48,22,2,Vida individual,2017
+2017-09,45,30,30,24,0,Vida individual,2017
+2017-10,49,20,22,21,0,Vida individual,2017
+2017-11,45,14,15,16,0,Vida individual,2017
+2017-12,55,19,20,23,1,Vida individual,2017
+2017-01,126,109,480,66,21,Automotores,2017
+2017-02,54,99,377,40,12,Automotores,2017
+2017-03,63,75,370,75,24,Automotores,2017
+2017-04,51,99,396,62,21,Automotores,2017
+2017-05,53,100,429,90,40,Automotores,2017
+2017-06,39,128,370,48,29,Automotores,2017
+2017-07,62,164,365,50,23,Automotores,2017
+2017-08,60,186,399,88,34,Automotores,2017
+2017-09,66,143,474,81,41,Automotores,2017
+2017-10,65,127,454,88,68,Automotores,2017
+2017-11,70,107,478,60,37,Automotores,2017
+2017-12,70,91,469,69,35,Automotores,2017
+2017-01,8,19,19,6,9,Comb.Familiar,2017
+2017-02,2,16,16,3,2,Comb.Familiar,2017
+2017-03,3,21,21,3,2,Comb.Familiar,2017
+2017-04,2,19,19,1,3,Comb.Familiar,2017
+2017-05,8,15,15,7,2,Comb.Familiar,2017
+2017-06,2,16,16,3,2,Comb.Familiar,2017
+2017-07,1,9,9,0,3,Comb.Familiar,2017
+2017-08,1,14,14,0,4,Comb.Familiar,2017
+2017-09,3,24,24,1,1,Comb.Familiar,2017
+2017-10,2,13,14,3,10,Comb.Familiar,2017
+2017-11,4,16,16,5,5,Comb.Familiar,2017
+2017-12,4,13,13,10,4,Comb.Familiar,2017
+2017-01,9,22,23,10,15,Acc.Personales,2017
+2017-02,4,25,29,3,2,Acc.Personales,2017
+2017-03,15,12,13,13,2,Acc.Personales,2017
+2017-04,8,10,10,8,3,Acc.Personales,2017
+2017-05,24,17,17,17,10,Acc.Personales,2017
+2017-06,10,37,38,8,8,Acc.Personales,2017
+2017-07,21,20,20,10,14,Acc.Personales,2017
+2017-08,21,23,23,10,27,Acc.Personales,2017
+2017-09,13,22,23,13,17,Acc.Personales,2017
+2017-10,16,23,26,11,12,Acc.Personales,2017
+2017-11,18,18,21,9,10,Acc.Personales,2017
+2017-12,20,22,24,8,17,Acc.Personales,2017
+2017-01,0,2,2,0,0,Incendio,2017
+2017-02,0,0,0,0,0,Incendio,2017
+2017-03,0,0,0,0,0,Incendio,2017
+2017-04,1,0,0,0,0,Incendio,2017
+2017-05,1,1,1,0,0,Incendio,2017
+2017-06,0,1,1,0,0,Incendio,2017
+2017-07,0,2,2,0,0,Incendio,2017
+2017-08,0,2,2,0,0,Incendio,2017
+2017-09,0,0,0,0,0,Incendio,2017
+2017-10,1,2,2,0,0,Incendio,2017
+2017-11,0,0,0,0,0,Incendio,2017
+2017-12,0,0,0,0,0,Incendio,2017
+2017-01,4,1,5,0,0,Caucion,2017
+2017-02,5,1,3,0,0,Caucion,2017
+2017-03,2,1,1,0,0,Caucion,2017
+2017-04,0,0,3,0,0,Caucion,2017
+2017-05,8,5,5,1,0,Caucion,2017
+2017-06,19,0,0,0,0,Caucion,2017
+2017-07,1,0,1,0,0,Caucion,2017
+2017-08,5,2,3,0,0,Caucion,2017
+2017-09,1,0,1,1,0,Caucion,2017
+2017-10,1,1,1,0,0,Caucion,2017
+2017-11,1,2,6,0,0,Caucion,2017
+2017-12,0,1,5,0,0,Caucion,2017
+2017-01,55,34,34,18,1,Acc. Fliares Transportados,2017
+2017-02,31,19,19,14,0,Acc. Fliares Transportados,2017
+2017-03,38,21,21,22,0,Acc. Fliares Transportados,2017
+2017-04,35,36,36,12,0,Acc. Fliares Transportados,2017
+2017-05,59,23,23,23,0,Acc. Fliares Transportados,2017
+2017-06,42,38,38,12,0,Acc. Fliares Transportados,2017
+2017-07,50,71,71,23,0,Acc. Fliares Transportados,2017
+2017-08,52,92,93,23,0,Acc. Fliares Transportados,2017
+2017-09,51,53,57,29,0,Acc. Fliares Transportados,2017
+2017-10,47,64,73,35,1,Acc. Fliares Transportados,2017
+2017-11,36,47,58,19,0,Acc. Fliares Transportados,2017
+2017-12,45,33,37,31,1,Acc. Fliares Transportados,2017
+2017-01,2,32,32,1,0,Vida Oblig.,2017
+2017-02,1,19,19,1,16,Vida Oblig.,2017
+2017-03,1,14,16,1,70,Vida Oblig.,2017
+2017-04,4,49,49,1,6,Vida Oblig.,2017
+2017-05,6,23,23,3,41,Vida Oblig.,2017
+2017-06,2,19,19,2,0,Vida Oblig.,2017
+2017-07,5,24,24,3,0,Vida Oblig.,2017
+2017-08,8,14,14,10,1,Vida Oblig.,2017
+2017-09,3,15,18,4,0,Vida Oblig.,2017
+2017-10,1,20,22,1,1,Vida Oblig.,2017
+2017-11,12,24,40,1,0,Vida Oblig.,2017
+2017-12,4,34,54,2,0,Vida Oblig.,2017
+2017-01,2,0,0,0,2,A.R.T.,2017
+2017-02,0,0,0,0,0,A.R.T.,2017
+2017-03,0,0,0,1,0,A.R.T.,2017
+2017-04,4,0,0,4,21,A.R.T.,2017
+2017-05,4,3,3,3,13,A.R.T.,2017
+2017-06,3,1,1,3,10,A.R.T.,2017
+2017-07,3,6,6,3,30,A.R.T.,2017
+2017-08,10,5,5,1,28,A.R.T.,2017
+2017-09,3,1,1,0,8,A.R.T.,2017
+2017-10,1,2,2,0,16,A.R.T.,2017
+2017-11,7,4,4,0,36,A.R.T.,2017
+2017-12,3,1,1,0,39,A.R.T.,2017
+2017-01,2,6,6,2,0,Resp.Civil,2017
+2017-02,1,5,5,1,1,Resp.Civil,2017
+2017-03,5,3,3,2,0,Resp.Civil,2017
+2017-04,4,7,7,1,0,Resp.Civil,2017
+2017-05,1,6,6,4,1,Resp.Civil,2017
+2017-06,6,2,2,0,0,Resp.Civil,2017
+2017-07,3,4,4,1,3,Resp.Civil,2017
+2017-08,4,4,4,3,0,Resp.Civil,2017
+2017-09,15,1,1,5,2,Resp.Civil,2017
+2017-10,2,5,5,1,4,Resp.Civil,2017
+2017-11,2,3,3,0,0,Resp.Civil,2017
+2017-12,1,2,2,5,1,Resp.Civil,2017
+2017-01,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-02,0,1,1,0,0,Todo Riesgo Operativo,2017
+2017-03,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-04,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-05,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-06,1,0,0,0,0,Todo Riesgo Operativo,2017
+2017-07,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-08,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-09,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-10,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-11,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-12,0,0,0,0,0,Todo Riesgo Operativo,2017
+2017-01,0,5,5,0,10,Int.de Comer.,2017
+2017-02,1,9,9,3,3,Int.de Comer.,2017
+2017-03,3,10,10,0,3,Int.de Comer.,2017
+2017-04,1,6,6,3,4,Int.de Comer.,2017
+2017-05,7,2,2,1,2,Int.de Comer.,2017
+2017-06,18,8,8,2,1,Int.de Comer.,2017
+2017-07,9,7,7,1,5,Int.de Comer.,2017
+2017-08,5,7,7,6,3,Int.de Comer.,2017
+2017-09,8,11,11,1,4,Int.de Comer.,2017
+2017-10,3,8,8,1,15,Int.de Comer.,2017
+2017-11,1,5,5,2,3,Int.de Comer.,2017
+2017-12,1,6,6,2,1,Int.de Comer.,2017
+2017-01,2,2,3,0,0,Moto - Vehículo,2017
+2017-02,2,0,1,0,1,Moto - Vehículo,2017
+2017-03,0,1,5,1,0,Moto - Vehículo,2017
+2017-04,2,2,3,0,0,Moto - Vehículo,2017
+2017-05,1,0,4,0,0,Moto - Vehículo,2017
+2017-06,1,0,0,1,0,Moto - Vehículo,2017
+2017-07,1,1,4,1,0,Moto - Vehículo,2017
+2017-08,2,0,2,0,1,Moto - Vehículo,2017
+2017-09,0,1,3,0,0,Moto - Vehículo,2017
+2017-10,0,2,3,1,6,Moto - Vehículo,2017
+2017-11,0,1,6,1,0,Moto - Vehículo,2017
+2017-12,3,2,7,1,3,Moto - Vehículo,2017
+2017-01,0,2,2,0,0,Sepelio,2017
+2017-02,0,0,0,0,0,Sepelio,2017
+2017-03,0,0,0,0,0,Sepelio,2017
+2017-04,0,0,0,1,0,Sepelio,2017
+2017-05,0,0,0,0,0,Sepelio,2017
+2017-06,0,0,0,0,0,Sepelio,2017
+2017-07,0,0,0,0,0,Sepelio,2017
+2017-08,0,0,0,0,0,Sepelio,2017
+2017-09,0,0,0,0,0,Sepelio,2017
+2017-10,0,0,0,0,0,Sepelio,2017
+2017-11,0,1,1,0,0,Sepelio,2017
+2017-12,0,0,0,0,0,Sepelio,2017
+2017-01,1,2,5,3,16,Vida Colectivo,2017
+2017-02,2,2,3,1,8,Vida Colectivo,2017
+2017-03,0,0,1,0,0,Vida Colectivo,2017
+2017-04,1,1,5,0,19,Vida Colectivo,2017
+2017-05,1,2,7,3,16,Vida Colectivo,2017
+2017-06,1,0,3,0,7,Vida Colectivo,2017
+2017-07,0,1,6,0,20,Vida Colectivo,2017
+2017-08,1,4,6,1,7,Vida Colectivo,2017
+2017-09,0,2,5,0,5,Vida Colectivo,2017
+2017-10,0,2,3,7,10,Vida Colectivo,2017
+2017-11,2,3,6,0,3,Vida Colectivo,2017
+2017-12,1,1,1,0,4,Vida Colectivo,2017
+2017-01,0,2,2,0,0,Seguro Tecnico,2017
+2017-02,0,1,1,1,0,Seguro Tecnico,2017
+2017-03,0,1,1,0,0,Seguro Tecnico,2017
+2017-04,0,1,1,0,0,Seguro Tecnico,2017
+2017-05,0,2,2,1,0,Seguro Tecnico,2017
+2017-06,0,1,1,0,0,Seguro Tecnico,2017
+2017-07,0,1,1,0,2,Seguro Tecnico,2017
+2017-08,0,2,2,0,0,Seguro Tecnico,2017
+2017-09,0,1,1,0,1,Seguro Tecnico,2017
+2017-10,1,0,1,0,0,Seguro Tecnico,2017
+2017-11,0,1,1,0,1,Seguro Tecnico,2017
+2017-12,0,0,0,0,0,Seguro Tecnico,2017
+2017-01,0,4,4,3,0,Incendio / Int. de Consorcio,2017
+2017-02,2,5,5,0,0,Incendio / Int. de Consorcio,2017
+2017-03,1,1,1,0,1,Incendio / Int. de Consorcio,2017
+2017-04,0,0,0,1,1,Incendio / Int. de Consorcio,2017
+2017-05,1,2,2,1,0,Incendio / Int. de Consorcio,2017
+2017-06,1,1,1,1,0,Incendio / Int. de Consorcio,2017
+2017-07,1,3,3,1,1,Incendio / Int. de Consorcio,2017
+2017-08,0,1,1,0,1,Incendio / Int. de Consorcio,2017
+2017-09,0,4,4,1,1,Incendio / Int. de Consorcio,2017
+2017-10,1,3,3,0,2,Incendio / Int. de Consorcio,2017
+2017-11,1,1,1,1,0,Incendio / Int. de Consorcio,2017
+2017-12,2,1,1,0,0,Incendio / Int. de Consorcio,2017
+2017-01,0,0,0,0,0,Transporte,2017
+2017-02,0,0,0,0,0,Transporte,2017
+2017-03,0,0,0,0,0,Transporte,2017
+2017-04,0,0,0,0,0,Transporte,2017
+2017-05,0,0,0,0,0,Transporte,2017
+2017-06,1,0,0,0,0,Transporte,2017
+2017-07,0,1,1,0,1,Transporte,2017
+2017-08,0,0,0,0,0,Transporte,2017
+2017-09,1,0,0,2,0,Transporte,2017
+2017-10,0,0,0,0,0,Transporte,2017
+2017-11,0,0,0,0,0,Transporte,2017
+2017-12,0,0,0,0,0,Transporte,2017
+2017-01,0,1,2,0,2,Vida Cont.Trab.,2017
+2017-02,0,1,1,0,2,Vida Cont.Trab.,2017
+2017-03,0,0,0,0,0,Vida Cont.Trab.,2017
+2017-04,0,0,0,0,5,Vida Cont.Trab.,2017
+2017-05,0,0,0,0,0,Vida Cont.Trab.,2017
+2017-06,2,0,0,1,0,Vida Cont.Trab.,2017
+2017-07,0,0,0,0,5,Vida Cont.Trab.,2017
+2017-08,0,1,1,0,1,Vida Cont.Trab.,2017
+2017-09,0,0,0,0,1,Vida Cont.Trab.,2017
+2017-10,0,1,1,0,3,Vida Cont.Trab.,2017
+2017-11,0,1,1,0,0,Vida Cont.Trab.,2017
+2017-12,0,0,0,0,3,Vida Cont.Trab.,2017
+2017-01,0,0,0,0,0,Robo,2017
+2017-02,0,0,0,0,0,Robo,2017
+2017-03,0,0,0,1,0,Robo,2017
+2017-04,1,3,3,0,0,Robo,2017
+2017-05,0,0,0,1,0,Robo,2017
+2017-06,0,2,2,2,0,Robo,2017
+2017-07,2,2,2,0,0,Robo,2017
+2017-08,1,1,1,3,0,Robo,2017
+2017-09,0,2,2,2,0,Robo,2017
+2017-10,0,4,4,0,0,Robo,2017
+2017-11,0,5,5,0,2,Robo,2017
+2017-12,1,0,0,0,0,Robo,2017
+2017-01,0,0,0,0,0,Salud,2017
+2017-02,0,0,0,0,0,Salud,2017
+2017-03,0,0,0,0,0,Salud,2017
+2017-04,0,1,1,0,0,Salud,2017
+2017-05,0,0,0,0,0,Salud,2017
+2017-06,2,0,0,1,0,Salud,2017
+2017-07,1,1,1,0,0,Salud,2017
+2017-08,1,1,1,3,0,Salud,2017
+2017-09,0,1,1,1,0,Salud,2017
+2017-10,0,1,1,0,0,Salud,2017
+2017-11,0,0,0,0,0,Salud,2017
+2017-12,0,0,0,0,0,Salud,2017
+2017-01,0,0,0,0,0,Acc.Pers.Auton.,2017
+2017-02,1,0,0,0,0,Acc.Pers.Auton.,2017
+2017-03,1,0,0,0,0,Acc.Pers.Auton.,2017
+2017-04,1,0,0,0,0,Acc.Pers.Auton.,2017
+2017-05,0,0,0,0,0,Acc.Pers.Auton.,2017
+2017-06,2,2,2,0,0,Acc.Pers.Auton.,2017
+2017-07,1,0,0,1,0,Acc.Pers.Auton.,2017
+2017-08,0,1,1,0,0,Acc.Pers.Auton.,2017
+2017-09,1,2,2,0,0,Acc.Pers.Auton.,2017
+2017-10,1,0,0,1,0,Acc.Pers.Auton.,2017
+2017-11,0,1,1,0,0,Acc.Pers.Auton.,2017
+2017-12,1,1,1,0,1,Acc.Pers.Auton.,2017
+2017-01,0,1,1,0,0,Cascos,2017
+2017-02,1,0,0,0,0,Cascos,2017
+2017-03,0,0,0,1,0,Cascos,2017
+2017-04,0,0,0,0,0,Cascos,2017
+2017-05,0,0,0,0,0,Cascos,2017
+2017-06,0,0,0,1,0,Cascos,2017
+2017-07,0,0,0,0,0,Cascos,2017
+2017-08,0,1,1,0,0,Cascos,2017
+2017-09,1,0,0,0,0,Cascos,2017
+2017-10,0,0,0,0,3,Cascos,2017
+2017-11,0,0,0,0,1,Cascos,2017
+2017-12,0,0,0,0,0,Cascos,2017
+2017-01,0,1,1,0,0,Int.Consorcio,2017
+2017-02,0,0,0,0,0,Int.Consorcio,2017
+2017-03,0,0,0,0,0,Int.Consorcio,2017
+2017-04,1,0,0,0,0,Int.Consorcio,2017
+2017-05,0,0,0,0,0,Int.Consorcio,2017
+2017-06,0,0,0,0,0,Int.Consorcio,2017
+2017-07,0,0,0,0,0,Int.Consorcio,2017
+2017-08,0,0,0,0,0,Int.Consorcio,2017
+2017-09,0,0,0,0,0,Int.Consorcio,2017
+2017-10,1,0,0,0,0,Int.Consorcio,2017
+2017-11,0,0,0,0,0,Int.Consorcio,2017
+2017-12,0,0,0,0,0,Int.Consorcio,2017
+2017-01,0,0,0,0,0,Riesgos Varios,2017
+2017-02,0,0,0,0,0,Riesgos Varios,2017
+2017-03,0,0,0,0,0,Riesgos Varios,2017
+2017-04,0,3,3,0,0,Riesgos Varios,2017
+2017-05,0,1,1,0,0,Riesgos Varios,2017
+2017-06,0,0,0,0,0,Riesgos Varios,2017
+2017-07,2,0,0,0,0,Riesgos Varios,2017
+2017-08,3,0,0,3,0,Riesgos Varios,2017
+2017-09,0,0,0,0,0,Riesgos Varios,2017
+2017-10,2,1,1,0,0,Riesgos Varios,2017
+2017-11,1,1,1,0,0,Riesgos Varios,2017
+2017-12,0,1,1,0,0,Riesgos Varios,2017
+2017-01,0,0,0,0,0,Cristales,2017
+2017-02,0,0,0,0,0,Cristales,2017
+2017-03,0,0,0,0,0,Cristales,2017
+2017-04,0,0,0,0,0,Cristales,2017
+2017-05,0,0,0,0,0,Cristales,2017
+2017-06,0,0,0,0,0,Cristales,2017
+2017-07,0,0,0,0,0,Cristales,2017
+2017-08,0,0,0,0,0,Cristales,2017
+2017-09,0,0,0,0,0,Cristales,2017
+2017-10,0,0,0,0,0,Cristales,2017
+2017-11,0,0,0,0,0,Cristales,2017
+2017-12,0,0,0,0,0,Cristales,2017
+2017-01,0,0,0,0,0,Perdida de Beneficio,2017
+2017-02,0,0,0,0,0,Perdida de Beneficio,2017
+2017-03,0,0,0,0,0,Perdida de Beneficio,2017
+2017-04,0,0,0,0,0,Perdida de Beneficio,2017
+2017-05,0,0,0,0,0,Perdida de Beneficio,2017
+2017-06,0,0,0,0,0,Perdida de Beneficio,2017
+2017-07,0,0,0,0,0,Perdida de Beneficio,2017
+2017-08,0,0,0,0,0,Perdida de Beneficio,2017
+2017-09,0,0,0,0,0,Perdida de Beneficio,2017
+2017-10,0,0,0,0,0,Perdida de Beneficio,2017
+2017-11,0,0,0,0,0,Perdida de Beneficio,2017
+2017-12,0,0,0,0,0,Perdida de Beneficio,2017
+2018-01,83,17,17,20,0,Vida individual,2018
+2018-02,51,5,5,9,0,Vida individual,2018
+2018-03,56,9,9,25,0,Vida individual,2018
+2018-04,82,27,27,26,0,Vida individual,2018
+2018-05,81,35,35,27,0,Vida individual,2018
+2018-06,51,48,48,6,1,Vida individual,2018
+2018-07,66,65,65,12,1,Vida individual,2018
+2018-08,88,59,60,14,0,Vida individual,2018
+2018-09,116,51,51,10,1,Vida individual,2018
+2018-10,123,40,40,9,1,Vida individual,2018
+2018-11,76,40,41,11,1,Vida individual,2018
+2018-12,19,16,16,6,0,Vida individual,2018
+2018-01,67,143,660,65,37,Automotores,2018
+2018-02,38,103,421,23,9,Automotores,2018
+2018-03,58,66,411,74,24,Automotores,2018
+2018-04,38,131,566,55,37,Automotores,2018
+2018-05,50,101,281,72,21,Automotores,2018
+2018-06,50,103,224,28,34,Automotores,2018
+2018-07,47,148,225,22,22,Automotores,2018
+2018-08,52,158,228,39,32,Automotores,2018
+2018-09,39,160,224,21,69,Automotores,2018
+2018-10,59,141,179,34,41,Automotores,2018
+2018-11,54,115,241,30,31,Automotores,2018
+2018-12,22,36,45,15,7,Automotores,2018
+2018-01,3,29,29,6,6,Comb.Familiar,2018
+2018-02,2,12,12,2,1,Comb.Familiar,2018
+2018-03,2,15,15,2,2,Comb.Familiar,2018
+2018-04,1,29,29,6,4,Comb.Familiar,2018
+2018-05,3,6,6,7,2,Comb.Familiar,2018
+2018-06,3,12,12,5,4,Comb.Familiar,2018
+2018-07,4,7,7,1,2,Comb.Familiar,2018
+2018-08,4,14,14,4,3,Comb.Familiar,2018
+2018-09,8,17,17,2,5,Comb.Familiar,2018
+2018-10,6,12,12,2,2,Comb.Familiar,2018
+2018-11,2,15,15,4,4,Comb.Familiar,2018
+2018-12,3,7,7,1,1,Comb.Familiar,2018
+2018-01,19,21,22,6,22,Acc.Personales,2018
+2018-02,17,4,10,4,4,Acc.Personales,2018
+2018-03,20,11,14,10,17,Acc.Personales,2018
+2018-04,18,21,24,7,13,Acc.Personales,2018
+2018-05,21,10,10,7,17,Acc.Personales,2018
+2018-06,20,22,24,7,5,Acc.Personales,2018
+2018-07,11,18,18,7,18,Acc.Personales,2018
+2018-08,18,17,17,13,15,Acc.Personales,2018
+2018-09,20,10,13,5,16,Acc.Personales,2018
+2018-10,31,15,15,8,10,Acc.Personales,2018
+2018-11,32,23,28,5,10,Acc.Personales,2018
+2018-12,17,1,2,3,3,Acc.Personales,2018
+2018-01,0,0,0,2,0,Incendio,2018
+2018-02,0,2,2,2,0,Incendio,2018
+2018-03,0,0,0,0,0,Incendio,2018
+2018-04,0,0,0,0,0,Incendio,2018
+2018-05,0,2,2,0,0,Incendio,2018
+2018-06,2,1,1,0,0,Incendio,2018
+2018-07,0,1,1,0,0,Incendio,2018
+2018-08,0,2,2,0,0,Incendio,2018
+2018-09,2,2,2,0,0,Incendio,2018
+2018-10,0,0,0,0,0,Incendio,2018
+2018-11,0,0,0,0,0,Incendio,2018
+2018-12,0,0,0,0,0,Incendio,2018
+2018-01,0,2,2,0,0,Caucion,2018
+2018-02,1,0,1,1,0,Caucion,2018
+2018-03,3,1,3,0,0,Caucion,2018
+2018-04,0,1,8,0,0,Caucion,2018
+2018-05,22,6,10,21,1,Caucion,2018
+2018-06,0,0,2,0,0,Caucion,2018
+2018-07,0,0,1,1,0,Caucion,2018
+2018-08,0,0,1,2,0,Caucion,2018
+2018-09,1,0,0,0,0,Caucion,2018
+2018-10,0,0,0,0,0,Caucion,2018
+2018-11,2,1,1,3,1,Caucion,2018
+2018-12,0,1,1,0,0,Caucion,2018
+2018-01,29,46,54,31,0,Acc. Fliares Transportados,2018
+2018-02,10,21,32,4,0,Acc. Fliares Transportados,2018
+2018-03,10,9,12,25,0,Acc. Fliares Transportados,2018
+2018-04,15,41,51,25,0,Acc. Fliares Transportados,2018
+2018-05,16,26,29,19,0,Acc. Fliares Transportados,2018
+2018-06,14,26,28,9,0,Acc. Fliares Transportados,2018
+2018-07,13,32,32,8,0,Acc. Fliares Transportados,2018
+2018-08,3,10,10,5,0,Acc. Fliares Transportados,2018
+2018-09,1,8,14,0,0,Acc. Fliares Transportados,2018
+2018-10,7,5,5,3,1,Acc. Fliares Transportados,2018
+2018-11,3,4,17,3,0,Acc. Fliares Transportados,2018
+2018-12,0,0,0,5,0,Acc. Fliares Transportados,2018
+2018-01,4,9,15,7,2,Vida Oblig.,2018
+2018-02,4,13,18,0,6,Vida Oblig.,2018
+2018-03,4,16,20,8,51,Vida Oblig.,2018
+2018-04,1,34,42,0,11,Vida Oblig.,2018
+2018-05,11,29,36,9,2,Vida Oblig.,2018
+2018-06,4,19,36,1,0,Vida Oblig.,2018
+2018-07,7,24,37,3,1,Vida Oblig.,2018
+2018-08,11,11,31,4,0,Vida Oblig.,2018
+2018-09,6,12,16,0,0,Vida Oblig.,2018
+2018-10,2,23,23,1,0,Vida Oblig.,2018
+2018-11,9,43,44,1,0,Vida Oblig.,2018
+2018-12,1,1,1,0,0,Vida Oblig.,2018
+2018-01,6,0,0,0,0,A.R.T.,2018
+2018-02,1,0,0,0,0,A.R.T.,2018
+2018-03,1,0,0,0,1,A.R.T.,2018
+2018-04,1,0,0,1,3,A.R.T.,2018
+2018-05,2,0,0,0,13,A.R.T.,2018
+2018-06,3,3,3,1,0,A.R.T.,2018
+2018-07,6,1,1,1,7,A.R.T.,2018
+2018-08,5,0,0,1,14,A.R.T.,2018
+2018-09,2,0,0,1,12,A.R.T.,2018
+2018-10,8,0,0,1,3,A.R.T.,2018
+2018-11,6,0,0,1,5,A.R.T.,2018
+2018-12,0,0,0,0,0,A.R.T.,2018
+2018-01,2,4,4,0,0,Resp.Civil,2018
+2018-02,8,4,4,2,0,Resp.Civil,2018
+2018-03,11,4,4,9,5,Resp.Civil,2018
+2018-04,1,7,7,1,0,Resp.Civil,2018
+2018-05,7,4,4,4,5,Resp.Civil,2018
+2018-06,9,3,3,6,1,Resp.Civil,2018
+2018-07,2,6,6,3,4,Resp.Civil,2018
+2018-08,2,6,6,5,22,Resp.Civil,2018
+2018-09,4,2,2,1,1,Resp.Civil,2018
+2018-10,8,5,5,1,1,Resp.Civil,2018
+2018-11,11,1,1,2,2,Resp.Civil,2018
+2018-12,3,1,1,3,2,Resp.Civil,2018
+2018-01,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-02,0,1,1,0,0,Todo Riesgo Operativo,2018
+2018-03,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-04,0,0,0,0,1,Todo Riesgo Operativo,2018
+2018-05,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-06,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-07,0,1,1,0,0,Todo Riesgo Operativo,2018
+2018-08,0,0,0,1,0,Todo Riesgo Operativo,2018
+2018-09,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-10,1,0,0,0,0,Todo Riesgo Operativo,2018
+2018-11,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-12,0,0,0,0,0,Todo Riesgo Operativo,2018
+2018-01,1,8,8,5,3,Int.de Comer.,2018
+2018-02,2,8,8,2,1,Int.de Comer.,2018
+2018-03,2,10,10,2,5,Int.de Comer.,2018
+2018-04,2,8,8,2,2,Int.de Comer.,2018
+2018-05,0,2,2,12,0,Int.de Comer.,2018
+2018-06,2,8,8,0,4,Int.de Comer.,2018
+2018-07,1,17,17,1,3,Int.de Comer.,2018
+2018-08,4,10,10,2,2,Int.de Comer.,2018
+2018-09,5,12,12,2,2,Int.de Comer.,2018
+2018-10,0,4,4,2,2,Int.de Comer.,2018
+2018-11,2,2,2,1,3,Int.de Comer.,2018
+2018-12,2,2,2,1,0,Int.de Comer.,2018
+2018-01,1,1,5,1,1,Moto - Vehículo,2018
+2018-02,2,2,6,1,3,Moto - Vehículo,2018
+2018-03,0,2,7,2,0,Moto - Vehículo,2018
+2018-04,0,2,8,2,2,Moto - Vehículo,2018
+2018-05,2,0,0,2,0,Moto - Vehículo,2018
+2018-06,0,1,5,2,0,Moto - Vehículo,2018
+2018-07,0,2,2,0,0,Moto - Vehículo,2018
+2018-08,0,1,3,0,1,Moto - Vehículo,2018
+2018-09,1,0,0,0,0,Moto - Vehículo,2018
+2018-10,1,4,4,0,2,Moto - Vehículo,2018
+2018-11,4,0,1,0,1,Moto - Vehículo,2018
+2018-12,0,0,0,0,0,Moto - Vehículo,2018
+2018-01,0,0,0,0,0,Sepelio,2018
+2018-02,0,0,0,0,0,Sepelio,2018
+2018-03,0,0,0,0,0,Sepelio,2018
+2018-04,0,0,0,0,0,Sepelio,2018
+2018-05,0,0,0,0,0,Sepelio,2018
+2018-06,0,0,0,0,0,Sepelio,2018
+2018-07,1,0,0,0,0,Sepelio,2018
+2018-08,0,0,0,0,0,Sepelio,2018
+2018-09,0,0,0,0,0,Sepelio,2018
+2018-10,1,0,0,0,0,Sepelio,2018
+2018-11,0,0,0,0,0,Sepelio,2018
+2018-12,0,0,0,0,0,Sepelio,2018
+2018-01,0,2,4,6,2,Vida Colectivo,2018
+2018-02,0,3,5,0,24,Vida Colectivo,2018
+2018-03,1,0,0,7,3,Vida Colectivo,2018
+2018-04,3,1,6,1,23,Vida Colectivo,2018
+2018-05,6,3,8,3,6,Vida Colectivo,2018
+2018-06,1,0,1,0,1,Vida Colectivo,2018
+2018-07,1,1,5,0,6,Vida Colectivo,2018
+2018-08,3,4,6,2,9,Vida Colectivo,2018
+2018-09,1,2,2,0,3,Vida Colectivo,2018
+2018-10,1,0,0,1,0,Vida Colectivo,2018
+2018-11,1,1,1,1,0,Vida Colectivo,2018
+2018-12,0,1,1,0,0,Vida Colectivo,2018
+2018-01,0,2,2,1,0,Seguro Tecnico,2018
+2018-02,0,0,0,0,0,Seguro Tecnico,2018
+2018-03,0,1,1,0,1,Seguro Tecnico,2018
+2018-04,0,0,0,0,0,Seguro Tecnico,2018
+2018-05,1,1,1,1,0,Seguro Tecnico,2018
+2018-06,0,3,3,0,1,Seguro Tecnico,2018
+2018-07,0,0,0,0,0,Seguro Tecnico,2018
+2018-08,0,3,3,0,0,Seguro Tecnico,2018
+2018-09,1,1,1,0,2,Seguro Tecnico,2018
+2018-10,2,0,0,0,0,Seguro Tecnico,2018
+2018-11,2,1,1,0,0,Seguro Tecnico,2018
+2018-12,0,0,0,0,0,Seguro Tecnico,2018
+2018-01,0,3,3,0,0,Incendio / Int. de Consorcio,2018
+2018-02,3,5,5,1,0,Incendio / Int. de Consorcio,2018
+2018-03,1,1,1,1,0,Incendio / Int. de Consorcio,2018
+2018-04,2,0,0,0,0,Incendio / Int. de Consorcio,2018
+2018-05,6,2,2,0,6,Incendio / Int. de Consorcio,2018
+2018-06,5,2,2,0,4,Incendio / Int. de Consorcio,2018
+2018-07,1,5,5,1,0,Incendio / Int. de Consorcio,2018
+2018-08,2,1,1,1,0,Incendio / Int. de Consorcio,2018
+2018-09,6,5,5,1,4,Incendio / Int. de Consorcio,2018
+2018-10,1,5,5,5,1,Incendio / Int. de Consorcio,2018
+2018-11,5,4,4,4,2,Incendio / Int. de Consorcio,2018
+2018-12,1,4,4,0,0,Incendio / Int. de Consorcio,2018
+2018-01,0,0,0,0,0,Transporte,2018
+2018-02,0,0,0,0,0,Transporte,2018
+2018-03,0,0,0,0,0,Transporte,2018
+2018-04,0,0,0,0,0,Transporte,2018
+2018-05,0,0,0,0,0,Transporte,2018
+2018-06,0,0,0,0,0,Transporte,2018
+2018-07,0,0,0,0,0,Transporte,2018
+2018-08,0,0,0,0,0,Transporte,2018
+2018-09,0,0,0,0,0,Transporte,2018
+2018-10,0,0,0,0,0,Transporte,2018
+2018-11,1,0,0,0,0,Transporte,2018
+2018-12,0,0,0,0,0,Transporte,2018
+2018-01,0,1,2,0,0,Vida Cont.Trab.,2018
+2018-02,0,1,1,0,3,Vida Cont.Trab.,2018
+2018-03,0,0,0,2,2,Vida Cont.Trab.,2018
+2018-04,0,0,0,0,1,Vida Cont.Trab.,2018
+2018-05,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-06,0,0,0,0,3,Vida Cont.Trab.,2018
+2018-07,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-08,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-09,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-10,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-11,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-12,0,0,0,0,0,Vida Cont.Trab.,2018
+2018-01,1,0,0,0,0,Robo,2018
+2018-02,1,0,0,1,0,Robo,2018
+2018-03,0,0,0,1,0,Robo,2018
+2018-04,0,3,3,1,0,Robo,2018
+2018-05,0,0,0,0,0,Robo,2018
+2018-06,0,0,0,0,0,Robo,2018
+2018-07,2,0,0,0,0,Robo,2018
+2018-08,0,0,0,0,0,Robo,2018
+2018-09,3,0,0,1,0,Robo,2018
+2018-10,2,2,2,0,0,Robo,2018
+2018-11,1,3,3,0,0,Robo,2018
+2018-12,0,0,0,0,0,Robo,2018
+2018-01,0,0,0,1,0,Salud,2018
+2018-02,0,0,0,0,0,Salud,2018
+2018-03,0,0,0,0,0,Salud,2018
+2018-04,0,0,0,0,0,Salud,2018
+2018-05,0,0,0,1,0,Salud,2018
+2018-06,0,0,0,0,0,Salud,2018
+2018-07,2,0,0,0,0,Salud,2018
+2018-08,0,0,0,0,0,Salud,2018
+2018-09,11,0,0,1,0,Salud,2018
+2018-10,105,1,1,1,1,Salud,2018
+2018-11,61,0,0,2,1,Salud,2018
+2018-12,17,0,0,0,0,Salud,2018
+2018-01,0,1,1,1,0,Acc.Pers.Auton.,2018
+2018-02,0,0,0,0,0,Acc.Pers.Auton.,2018
+2018-03,0,1,1,0,1,Acc.Pers.Auton.,2018
+2018-04,0,2,2,1,0,Acc.Pers.Auton.,2018
+2018-05,1,0,0,0,0,Acc.Pers.Auton.,2018
+2018-06,0,0,0,0,1,Acc.Pers.Auton.,2018
+2018-07,0,1,1,0,0,Acc.Pers.Auton.,2018
+2018-08,0,0,0,1,1,Acc.Pers.Auton.,2018
+2018-09,0,1,1,0,0,Acc.Pers.Auton.,2018
+2018-10,0,0,0,0,0,Acc.Pers.Auton.,2018
+2018-11,0,0,0,1,0,Acc.Pers.Auton.,2018
+2018-12,0,0,0,0,0,Acc.Pers.Auton.,2018
+2018-01,0,1,1,0,0,Cascos,2018
+2018-02,0,1,1,0,0,Cascos,2018
+2018-03,1,0,0,0,0,Cascos,2018
+2018-04,1,0,0,0,0,Cascos,2018
+2018-05,0,0,0,0,0,Cascos,2018
+2018-06,0,0,0,0,0,Cascos,2018
+2018-07,0,0,0,0,0,Cascos,2018
+2018-08,0,2,2,0,0,Cascos,2018
+2018-09,0,0,0,0,0,Cascos,2018
+2018-10,0,0,0,1,0,Cascos,2018
+2018-11,0,0,0,0,0,Cascos,2018
+2018-12,0,0,0,0,0,Cascos,2018
+2018-01,0,0,0,1,0,Int.Consorcio,2018
+2018-02,0,0,0,0,0,Int.Consorcio,2018
+2018-03,0,0,0,0,0,Int.Consorcio,2018
+2018-04,0,1,1,0,0,Int.Consorcio,2018
+2018-05,0,0,0,0,0,Int.Consorcio,2018
+2018-06,1,0,0,0,0,Int.Consorcio,2018
+2018-07,0,0,0,0,0,Int.Consorcio,2018
+2018-08,0,1,1,1,0,Int.Consorcio,2018
+2018-09,0,0,0,0,0,Int.Consorcio,2018
+2018-10,0,0,0,0,0,Int.Consorcio,2018
+2018-11,0,0,0,0,0,Int.Consorcio,2018
+2018-12,0,0,0,0,0,Int.Consorcio,2018
+2018-01,44,0,0,3,0,Riesgos Varios,2018
+2018-02,40,0,0,6,0,Riesgos Varios,2018
+2018-03,40,1,1,4,0,Riesgos Varios,2018
+2018-04,46,4,4,4,0,Riesgos Varios,2018
+2018-05,62,0,0,11,0,Riesgos Varios,2018
+2018-06,41,0,0,7,1,Riesgos Varios,2018
+2018-07,79,2,2,3,0,Riesgos Varios,2018
+2018-08,122,1,1,10,0,Riesgos Varios,2018
+2018-09,127,0,0,7,1,Riesgos Varios,2018
+2018-10,127,2,2,4,0,Riesgos Varios,2018
+2018-11,93,1,1,5,1,Riesgos Varios,2018
+2018-12,28,0,0,2,0,Riesgos Varios,2018
+2018-01,0,0,0,0,0,Cristales,2018
+2018-02,0,0,0,0,0,Cristales,2018
+2018-03,0,0,0,0,0,Cristales,2018
+2018-04,0,0,0,0,0,Cristales,2018
+2018-05,0,0,0,0,0,Cristales,2018
+2018-06,0,0,0,0,0,Cristales,2018
+2018-07,0,0,0,0,0,Cristales,2018
+2018-08,0,0,0,0,0,Cristales,2018
+2018-09,0,0,0,0,0,Cristales,2018
+2018-10,0,0,0,0,0,Cristales,2018
+2018-11,0,0,0,0,0,Cristales,2018
+2018-12,0,0,0,0,0,Cristales,2018
+2018-01,0,0,0,0,0,Perdida de Beneficio,2018
+2018-02,0,0,0,0,0,Perdida de Beneficio,2018
+2018-03,0,0,0,0,0,Perdida de Beneficio,2018
+2018-04,0,0,0,0,0,Perdida de Beneficio,2018
+2018-05,0,0,0,0,0,Perdida de Beneficio,2018
+2018-06,0,0,0,0,0,Perdida de Beneficio,2018
+2018-07,0,0,0,0,0,Perdida de Beneficio,2018
+2018-08,0,0,0,0,0,Perdida de Beneficio,2018
+2018-09,0,0,0,0,0,Perdida de Beneficio,2018
+2018-10,1,0,0,0,0,Perdida de Beneficio,2018
+2018-11,0,0,0,0,0,Perdida de Beneficio,2018
+2018-12,0,0,0,0,0,Perdida de Beneficio,2018

@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+
+<script src="https://cdn.jsdelivr.net/npm//vega@3.3.1"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-lite@2.6.0"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-embed@3.14"></script>
+
+</head>
+<body>
+  <div id="vis"></div>
+  <script type="text/javascript">
+    var spec = {"config": {"view": {"width": 400, "height": 300}}, "data": {"name": "data-4f40df4c3c3a0d697031783588664583"}, "mark": "circle", "encoding": {"color": {"type": "nominal", "field": "Genes"}, "size": {"type": "nominal", "field": "transcript"}, "x": {"type": "quantitative", "field": "Tries"}, "y": {"type": "quantitative", "field": "TPM"}}, "$schema": "https://vega.github.io/schema/vega-lite/v2.6.0.json", "datasets": {"data-4f40df4c3c3a0d697031783588664583": [{"sampleID": "S01", "add1": 1, "transcript": "chr2_uc002rvz.4", "Tries": 1, "TPM": 157157.03, "Genes_N": 4, "Genes": "chr2_MSH2"}, {"sampleID": "S01", "add1": 1, "transcript": "chr2_uc002rvy.2", "Tries": 2, "TPM": 26983.21, "Genes_N": 4, "Genes": "chr2_MSH2"}, {"sampleID": "S01", "add1": 1, "transcript": "chr2_uc010fbh.1", "Tries": 3, "TPM": 6902.84, "Genes_N": 4, "Genes": "chr2_MSH2"}, {"sampleID": "S01", "add1": 1, "transcript": "chr11_uc009yxr.1", "Tries": 4, "TPM": 116319.04, "Genes_N": 1, "Genes": "chr11_ATM"}, {"sampleID": "S01", "add1": 1, "transcript": "chr11_uc001pkb.1", "Tries": 5, "TPM": 5799.09, "Genes_N": 1, "Genes": "chr11_ATM"}, {"sampleID": "S01", "add1": 1, "transcript": "chr11_uc001pkc.1", "Tries": 6, "TPM": 90011.22, "Genes_N": 1, "Genes": "chr11_ATM"}, {"sampleID": "S01", "add1": 1, "transcript": "chr11_uc001pkf.3", "Tries": 7, "TPM": 9798.2, "Genes_N": 1, "Genes": "chr11_ATM"}, {"sampleID": "S01", "add1": 1, "transcript": "chr11_uc001pkd.4", "Tries": 8, "TPM": 403.22, "Genes_N": 1, "Genes": "chr11_ATM"}, {"sampleID": "S01", "add1": 1, "transcript": "chr13_uc001uub.1", "Tries": 9, "TPM": 185431.89, "Genes_N": 3, "Genes": "chr13_BRCA2"}, {"sampleID": "S01", "add1": 1, "transcript": "chr16_uc002dlx.1", "Tries": 10, "TPM": 279214.06, "Genes_N": 5, "Genes": "chr16_PALB2"}, {"sampleID": "S01", "add1": 1, "transcript": "chr17_uc002ict.3", "Tries": 11, "TPM": 106590.91, "Genes_N": 2, "Genes": "chr17_BRCA1"}, {"sampleID": "S01", "add1": 1, "transcript": "chr17_uc010cyz.2", "Tries": 12, "TPM": 774.03, "Genes_N": 2, "Genes": "chr17_BRCA1"}, {"sampleID": "S01", "add1": 1, "transcript": "chr17_uc010who.3", "Tries": 13, "TPM": 14615.28, "Genes_N": 2, "Genes": "chr17_BRCA1"}]}};
+    var embed_opt = {"mode": "vega-lite"};
+
+    function showError(el, error){
+        el.innerHTML = ('<div class="error">'
+                        + '<p>JavaScript Error: ' + error.message + '</p>'
+                        + "<p>This usually means there's a typo in your chart specification. "
+                        + "See the javascript console for the full traceback.</p>"
+                        + '</div>');
+        throw error;
+    }
+    const el = document.getElementById('vis');
+    vegaEmbed("#vis", spec, embed_opt)
+      .catch(error => showError(el, error));
+  </script>
+</body>
+</html>
